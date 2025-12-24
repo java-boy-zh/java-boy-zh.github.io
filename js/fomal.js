@@ -1325,7 +1325,7 @@ var titleTime;
 document.addEventListener('visibilitychange', function () {
   if (document.hidden) {
     //离开当前页面时标签显示内容
-    document.title = '👻U7在这呐~';
+    document.title = '👻王同学的博客~';
     clearTimeout(titleTime);
   } else {
     //返回当前页面时标签显示内容
