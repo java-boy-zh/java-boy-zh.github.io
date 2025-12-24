@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: U7's Blog🍋
+title: 🍭王同学的博客🍭
 subtitle: 
-description: 'u7 and cc is now 🍭🍭🍭'
-keywords: "Java,MySQL,算法,代码,博客,Butterfly,Hexo,U7's Blog🍋"
-author: U7's Blog🍋
+description: '写代码的王同学 一起进步的博客 🍭🍭🍭'
+keywords: "Java,Vue,MySQL,算法,代码,博客🍋"
+author: 王同学🍋
 language: zh-CN
 timezone: ''
 
@@ -18,7 +18,7 @@ abbrlink:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://u7u7.top/ # 修改自己的git Pages地址
+url: https://java-boy-zh.github.io/ # 修改自己的git Pages地址
 permalink: posts/:abbrlink.html
 permalink_defaults:
 pretty_urls:
@@ -124,7 +124,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   - type: git
-    repository: https://github.com/java-boy-zh/wangtongxue.github.io.git # 修改自己的git仓库地址
+    repository: https://github.com/java-boy-zh/java-boy-zh.github.io.git # 修改自己的git仓库地址
     # git@github.com:u7-u7/u7-u7.github.io.git
     # root@47.120.9.247:/home/git/blog.git
     branch: main
@@ -300,24 +300,24 @@ magnet:
   type: categories
   devide: 3
   display:
-    - name: 学习笔记
-      display_name: U7の学习笔记
-      icon: 🍡
-    - name: 杂项
-      display_name: U7のLife&Work杂项
-      icon: 🍼
-    - name: 项目
-      display_name: U7の项目笔记
-      icon: 🍉
-    - name: 工作月总结
-      display_name: U7の工作月总结
-      icon: 🍨
-    - name: 算法
-      display_name: U7の算法学习笔记
-      icon: 🍟
-    - name: 面试
-      display_name: U7の面试
-      icon: 🍥
+#    - name: 学习笔记
+#      display_name: U7の学习笔记
+#      icon: 🍡
+#    - name: 杂项
+#      display_name: U7のLife&Work杂项
+#      icon: 🍼
+#    - name: 项目
+#      display_name: U7の项目笔记
+#      icon: 🍉
+#    - name: 工作月总结
+#      display_name: U7の工作月总结
+#      icon: 🍨
+#    - name: 算法
+#      display_name: U7の算法学习笔记
+#      icon: 🍟
+#    - name: 面试
+#      display_name: U7の面试
+#      icon: 🍥
   color_setting:
     text_color: black # 文字默认颜色
     text_hover_color: white # 文字鼠标悬浮颜色

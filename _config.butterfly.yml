@@ -1,4 +1,4 @@
-# Main menu navigation (導航目錄)
+# Main men navigation (導航目錄)
 # see https://butterfly.js.org/posts/4aa8abbe/#導航菜單
 # --------------------------------------
 
@@ -52,11 +52,11 @@ copy:
 #   icon: link || the description
 social:
   # Github: https://github.com/fomalhaut1998 || icon-github || faa-tada
-  微信: /assets/u7Wechat.jpg || icon-weixin || faa-tada
-  QQ: https://res.abeim.cn/api/qq/?qq=1452582554 || icon-QQ || faa-tada
-  B站: https://space.bilibili.com/351467098 || icon-bilibili || faa-tada
-  QQ邮箱: mailto:1452582554@qq.com || icon-youxiang || faa-tada
-  力扣: https://leetcode.cn/u/yluTGgliD9 || icon-leetcode || faa-tada
+  微信: /assets/wangtongxue.jpg || icon-weixin || faa-tada
+  QQ: https://res.abeim.cn/api/qq/?qq=1121586359 || icon-QQ || faa-tada
+  B站: https://space.bilibili.com/122593604 || icon-bilibili || faa-tada
+  QQ邮箱: mailto:1121586359@qq.com || icon-youxiang || faa-tada
+#  力扣: https://leetcode.cn/u/yluTGgliD9 || icon-leetcode || faa-tada
   # 微博: https://weibo.com/u/6473136435 || icon-weibo || faa-tada
   # 知乎: https://www.zhihu.com/people/liang-jia-chao-19 || icon-shejiaotubiao-10 || faa-tada
   # RSS: /atom.xml || icon-RSS || faa-tada
@@ -674,7 +674,7 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - "Welcome to U7 Blog🍋cc Home! 🍼 🍼 🍼"
+    - "欢迎来到王同学的博客"
     - "Hope you have a nice day!🍭🍭🍭"
     - 游戏打不过你知道投降 工作完不成呢你知道放弃 你喜欢的那个人不喜欢你 你却还不肯放手 那我只能送你一句话了 你呀 活该  
     - 枕头里装满了发霉的梦 评论里藏满了得不到的人
@@ -739,10 +739,11 @@ aside:
       enable: true
       icon: # fab fa-github
       text: 🛴前往小窝
-      link: https://github.com/u7-u7
+      link: https://github.com/java-boy-zh
   card_announcement:
     enable: true
-    content: <center><b>--- 主域名 ---<br><a href="https://u7u7.top" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">u7u7.top</font></a>&nbsp;|&nbsp;<a href="https://cc.u7u7.top" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">cc.u7u7.top</font></a><br>--- 备用域名 ---<br><a href="https://u7-u7.github.io" title="此线路部署于Cloudflare" class="anno_content"><font color="#5ea6e5">u7-u7.github.io</font></a><br>--- 网站安卓APP ---<br>🍧<a href="https://lskypro.acozycotage.net/Fomalhaut/Fomalhaut.apk" title="点这里可以下载网站的安卓APP" class="anno_content"><font color="#5ea6e5">点此下载</font></a>🍧</b></center>
+#    content: <center><b>--- 主域名 ---<br><a href="https://u7u7.top" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">u7u7.top</font></a>&nbsp;|&nbsp;<a href="https://cc.u7u7.top" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">cc.u7u7.top</font></a><br>--- 备用域名 ---<br><a href="https://u7-u7.github.io" title="此线路部署于Cloudflare" class="anno_content"><font color="#5ea6e5">u7-u7.github.io</font></a><br>--- 网站安卓APP ---<br>🍧<a href="https://lskypro.acozycotage.net/Fomalhaut/Fomalhaut.apk" title="点这里可以下载网站的安卓APP" class="anno_content"><font color="#5ea6e5">点此下载</font></a>🍧</b></center>
+    content: <center></center>
   card_recent_post:
     enable: true
     limit: 4 # if set 0 will show all
