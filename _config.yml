@@ -124,7 +124,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   - type: git
-    repository: https://github.com/u7-u7/wangtongxue.github.io.git # 修改自己的git仓库地址
+    repository: https://github.com/java-boy-zh/wangtongxue.github.io.git # 修改自己的git仓库地址
     # git@github.com:u7-u7/u7-u7.github.io.git
     # root@47.120.9.247:/home/git/blog.git
     branch: main
